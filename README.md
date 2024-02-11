@@ -3,7 +3,7 @@
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido durante o curso de ssas da alura.</p>
 
-[Acessar a página]( https://brunomartins.github.io/ssas/)
+[Acessar a página]( https://ssas-beta.vercel.app/)
 
 ## 🚀 Tecnologias
 <div>
